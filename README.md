@@ -1,2 +1,2 @@
 # chaoma.github.io
-## This is Dr. Chao Ma.
+## This is our lab website created by Dr. Chao Ma.
